@@ -1,0 +1,17 @@
+h1{
+    font-weight: 700px;
+    background-color: whitesmoke;
+    color: greenyellow;
+}
+h2{
+    font-size: large;
+    color: brown;
+}
+ul{
+    background-color: navajowhite;
+    color: blueviolet;
+}
+ol{
+    background-color: aqua;
+    color: red;
+}
